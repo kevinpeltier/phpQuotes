@@ -4,8 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
 </head>
 <body>
-    
+
+    <div class="bg-primary">
+        Test
+    </div>
+
+<script src="/node_modules/bootstrap/dist/js/bootstrap.js"></script>
+
 </body>
 </html>
